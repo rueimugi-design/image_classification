@@ -1,1 +1,1 @@
-# image_classification
+# rainfall-prediction
